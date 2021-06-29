@@ -1,0 +1,23 @@
+header {
+    background-image: url('../img/delivery.jpg');
+    background-repeat: no-repeat;
+    background-color: rgba(21, 21, 163, 0.623);
+    height: 1000px;
+    background-position: center -100px;
+    background-attachment: fixed;
+    background-size: contain;
+
+}
+
+.fab {
+    font-size: 60px;
+    color: brown;
+    background-color: yellow;
+}
+footer{
+    text-align: center;
+}
+
+p{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
